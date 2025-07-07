@@ -12,10 +12,14 @@ function displayCards(data) {
   const container = document.getElementById('card-container');
   container.innerHTML = '';
   data.forEach(card => {
+    const paddedId = String(card.id).padStart(6, '0');
+    const imageFile = `img/${paddedId}_front_back.jpg`;
+
     const cardDiv = document.createElement('div');
     cardDiv.className = 'card';
 
     cardDiv.innerHTML = `
+      <img src="${imageFile}" alt="${card.jmeno}" style="width:100%; border-radius:8px;">
       <h2>${card.jmeno}</h2>
       <p><strong>ID:</strong> ${card.id}</p>
       <p><strong>Série:</strong> ${card.serie}</p>
