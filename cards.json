@@ -1,0 +1,3042 @@
+[
+  {
+    "id": 1.0,
+    "jmeno": "Alex Bowman",
+    "serie": "Donruss - Race Kings",
+    "cislo": "48",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 2.0,
+    "jmeno": "Alex Bowman",
+    "serie": "Donruss - Under Lights",
+    "cislo": "UL3",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 3.0,
+    "jmeno": "Alex Bowman",
+    "serie": "Panini - Elite Series",
+    "cislo": "E12",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 4.0,
+    "jmeno": "Alex Labbe",
+    "serie": "Panini - Donruss",
+    "cislo": "101",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 5.0,
+    "jmeno": "Aric Almirola",
+    "serie": "Donruss - Race Kings",
+    "cislo": "22",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 6.0,
+    "jmeno": "Aric Almirola",
+    "serie": "Donruss - Retro",
+    "cislo": "126",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 7.0,
+    "jmeno": "Austin Cindric",
+    "serie": "Panini - Elite Series",
+    "cislo": "E16",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 8.0,
+    "jmeno": "Austin Dillon",
+    "serie": "Donruss - Under Lights",
+    "cislo": "UL13",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 9.0,
+    "jmeno": "Bill Elliott",
+    "serie": "Panini - Donruss",
+    "cislo": "50",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 10.0,
+    "jmeno": "Brad Keselowski",
+    "serie": "Donruss - Retro",
+    "cislo": "150",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 11.0,
+    "jmeno": "Brad Keselowski",
+    "serie": "Panini - Metal Masters",
+    "cislo": "MM10",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 12.0,
+    "jmeno": "Brett Moffitt",
+    "serie": "Panini - Donruss",
+    "cislo": "85",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 13.0,
+    "jmeno": "Brittney Zamora",
+    "serie": "Donruss - Race Kings",
+    "cislo": "25",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 14.0,
+    "jmeno": "Bubba Wallace",
+    "serie": "Panini - Donruss",
+    "cislo": "60",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 15.0,
+    "jmeno": "Chase Briscoe",
+    "serie": "Panini - Donruss",
+    "cislo": "42",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 16.0,
+    "jmeno": "Chase Elliott",
+    "serie": "Donruss - Race Kings",
+    "cislo": "9",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 17.0,
+    "jmeno": "Chase Elliott",
+    "serie": "Donruss - Under Lights",
+    "cislo": "UL6",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 18.0,
+    "jmeno": "Chase Elliott",
+    "serie": "Panini - Donruss",
+    "cislo": "120",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 19.0,
+    "jmeno": "Chase Elliott",
+    "serie": "Panini - Optic Retro",
+    "cislo": "69",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 20.0,
+    "jmeno": "Chris Buescher",
+    "serie": "Panini - Donruss",
+    "cislo": "61",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 21.0,
+    "jmeno": "Christopher Bell ",
+    "serie": "Panini - Donruss",
+    "cislo": "48",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 22.0,
+    "jmeno": "Clint Bowyer",
+    "serie": "Panini - Donruss",
+    "cislo": "87",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 23.0,
+    "jmeno": "Cole Custer",
+    "serie": "Donruss - Retro",
+    "cislo": "149",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 24.0,
+    "jmeno": "Corey Lajoie",
+    "serie": "Panini - Select ",
+    "cislo": "118",
+    "limitace": "125/125",
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 25.0,
+    "jmeno": "Dale Earnhadt Jr",
+    "serie": "Panini - Donruss",
+    "cislo": "26",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 26.0,
+    "jmeno": "Dalle Jarrett",
+    "serie": "Donruss - Retro",
+    "cislo": "197",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 27.0,
+    "jmeno": "Daniel Hemric",
+    "serie": "Donruss - Retro",
+    "cislo": "162",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 28.0,
+    "jmeno": "Daniel Hemric",
+    "serie": "Panini - Donruss",
+    "cislo": "77",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 29.0,
+    "jmeno": "Daniel Suarez",
+    "serie": "Donruss - Under Lights",
+    "cislo": "UL17",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 30.0,
+    "jmeno": "Darrell Waltrip",
+    "serie": "Panini - Donruss",
+    "cislo": "99",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 31.0,
+    "jmeno": "Denny Hamlin",
+    "serie": "Panini - Donruss",
+    "cislo": "47",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 32.0,
+    "jmeno": "Denny Hamlin",
+    "serie": "Panini - Donruss",
+    "cislo": "124",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 33.0,
+    "jmeno": "Grant Enfinger",
+    "serie": "Donruss - Retro",
+    "cislo": "191",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 34.0,
+    "jmeno": "Greg Biffle",
+    "serie": "Donruss - Retro",
+    "cislo": "188",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 35.0,
+    "jmeno": "Greg Biffle",
+    "serie": "Panini - Select",
+    "cislo": "8",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 36.0,
+    "jmeno": "Harrison Burton ",
+    "serie": "Donruss - Retro",
+    "cislo": "153",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 37.0,
+    "jmeno": "Jack Wood",
+    "serie": "Panini - Rated Rookie",
+    "cislo": "31",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 38.0,
+    "jmeno": "Jake Garcia",
+    "serie": "Panini - Select",
+    "cislo": "193",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 39.0,
+    "jmeno": "Jeb Burton",
+    "serie": "Donruss - Retro",
+    "cislo": "200",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 40.0,
+    "jmeno": "Jeff Burton",
+    "serie": "Panini - Select",
+    "cislo": "S-JBT",
+    "limitace": NaN,
+    "podpis": "Ano",
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 41.0,
+    "jmeno": "Jeff Gordon",
+    "serie": "Panini - Donruss",
+    "cislo": "28",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 42.0,
+    "jmeno": "Jeff Gordon",
+    "serie": "Panini - Power Squad",
+    "cislo": "PS3",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 43.0,
+    "jmeno": "Jesse Iwuji",
+    "serie": "Panini- Optic Rookie",
+    "cislo": "13",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 44.0,
+    "jmeno": "Jimmie Johnson",
+    "serie": "Donruss - Race Kings",
+    "cislo": "48",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 45.0,
+    "jmeno": "Jimmie Johnson",
+    "serie": "Panini - Donruss",
+    "cislo": "34",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 46.0,
+    "jmeno": "Joey Logano ",
+    "serie": "Donruss - Race Kings",
+    "cislo": "22",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 47.0,
+    "jmeno": "John Hunter Nemechek",
+    "serie": "Panini - Donruss",
+    "cislo": "86",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 48.0,
+    "jmeno": "Josh Berry",
+    "serie": "Panini - Select",
+    "cislo": "66",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 49.0,
+    "jmeno": "Justin Haley",
+    "serie": "Panini - Donruss",
+    "cislo": "62",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 50.0,
+    "jmeno": "Kasey Kahne",
+    "serie": "Panini - Donruss",
+    "cislo": "98",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 51.0,
+    "jmeno": "Kevin Harvick",
+    "serie": "Donruss - Race Kings",
+    "cislo": "4",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 52.0,
+    "jmeno": "Kevin Harvick",
+    "serie": "Donruss - Retro",
+    "cislo": "142",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 53.0,
+    "jmeno": "Kevin Harvick",
+    "serie": "Panini - Donruss",
+    "cislo": "116",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 54.0,
+    "jmeno": "Kevin Harvick",
+    "serie": "Panini - Unleashed",
+    "cislo": "U9",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 55.0,
+    "jmeno": "Kyle Busch",
+    "serie": "Panini - Donruss",
+    "cislo": "55",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 56.0,
+    "jmeno": "Kyle Busch",
+    "serie": "Panini- Race Kings",
+    "cislo": "18",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 57.0,
+    "jmeno": "Kyle Larson",
+    "serie": "Donruss - Retro",
+    "cislo": "129",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 58.0,
+    "jmeno": "Kyle Weatherman",
+    "serie": "Donruss - Retro",
+    "cislo": "192",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 59.0,
+    "jmeno": "Landon Cassill",
+    "serie": "Panini - Donruss",
+    "cislo": "79",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 60.0,
+    "jmeno": "Martin Truex Jr.",
+    "serie": "Donruss - Retro",
+    "cislo": "143",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 61.0,
+    "jmeno": "Matt DiBenedetto",
+    "serie": "Donruss - Retro",
+    "cislo": "169",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 62.0,
+    "jmeno": "Mike Harmon",
+    "serie": "Donruss - Retro",
+    "cislo": "181",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 63.0,
+    "jmeno": "Mike Harmon",
+    "serie": "Donruss - Retro",
+    "cislo": "181",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 64.0,
+    "jmeno": "Richard Petty",
+    "serie": "Donruss - Retro",
+    "cislo": "159",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 65.0,
+    "jmeno": "Richard Petty",
+    "serie": "Panini- Race Kings",
+    "cislo": "43",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 66.0,
+    "jmeno": "Ricky Stenhouse Jr",
+    "serie": "Panini - Donruss",
+    "cislo": "67",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 67.0,
+    "jmeno": "Riely Herbst",
+    "serie": "Donruss - Retro",
+    "cislo": "163",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 68.0,
+    "jmeno": "Ryan Blaney",
+    "serie": "Donruss - Race Kings",
+    "cislo": "12",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 69.0,
+    "jmeno": "Ryan Blaney",
+    "serie": "Donruss - Retro",
+    "cislo": "133",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 70.0,
+    "jmeno": "Ryan Blaney",
+    "serie": "Panini - Donruss",
+    "cislo": "49",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 71.0,
+    "jmeno": "Ryan Blaney",
+    "serie": "Panini - Optic Retro",
+    "cislo": "72",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 72.0,
+    "jmeno": "Ryan Newman",
+    "serie": "Donruss - Retro",
+    "cislo": "182",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 73.0,
+    "jmeno": "Sam Mayer",
+    "serie": "Panini - Donruss",
+    "cislo": "76",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 74.0,
+    "jmeno": "Takuma Koga",
+    "serie": "Panini - Rated Rookie",
+    "cislo": "40",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 75.0,
+    "jmeno": "Tanner Gray",
+    "serie": "Panini - Donruss",
+    "cislo": "103",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 76.0,
+    "jmeno": "Toni Breidinger",
+    "serie": "Donruss - Retro",
+    "cislo": "178",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 77.0,
+    "jmeno": "Toni Breidinger",
+    "serie": "Panini - Donruss",
+    "cislo": "93",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 78.0,
+    "jmeno": "Tony Stewart",
+    "serie": "Panini - Donruss",
+    "cislo": "94",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 79.0,
+    "jmeno": "Ty Dillon",
+    "serie": "Panini- Optic Donruss",
+    "cislo": "57",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 80.0,
+    "jmeno": "Ty Gibbs",
+    "serie": "Panini - Donruss",
+    "cislo": "71",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 81.0,
+    "jmeno": "Tyler Reddick",
+    "serie": "Donruss - Retro",
+    "cislo": "139",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 82.0,
+    "jmeno": "Tyler Reddick",
+    "serie": "Panini - Donruss",
+    "cislo": "54",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": 83.0,
+    "jmeno": "William Byron",
+    "serie": "Panini - Unleashed",
+    "cislo": "U5",
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  },
+  {
+    "id": NaN,
+    "jmeno": NaN,
+    "serie": NaN,
+    "cislo": NaN,
+    "limitace": NaN,
+    "podpis": NaN,
+    "memorabilia": NaN,
+    "rookie": NaN
+  }
+]
