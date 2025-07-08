@@ -25,6 +25,7 @@ function displayCards(data) {
       <p><strong>ID:</strong> ${card.id}</p>
       <p><strong>Série:</strong> ${card.serie}</p>
       <p><strong>Číslo:</strong> ${card.cislo}</p>
+      <p><strong>IMG path:</strong> ${imageFile}</p>
       ${card.limitace ? `<p><strong>Limitace:</strong> ${card.limitace}</p>` : ''}
       ${card.podpis ? `<p><strong>Podpis:</strong> ${card.podpis}</p>` : ''}
       ${card.memorabilia ? `<p><strong>Memorabilia:</strong> ${card.memorabilia}</p>` : ''}
