@@ -1,832 +1,3042 @@
 [
   {
-    "id": 1,
-    "jmeno": "Alex Bowman",
-    "serie": "Donruss - Race Kings",
-    "cislo": 48,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 2,
-    "jmeno": "Alex Bowman",
-    "serie": "Donruss - Under Lights",
-    "cislo": "UL3",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 3,
-    "jmeno": "Alex Bowman",
-    "serie": "Panini - Elite Series",
-    "cislo": "E12",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 4,
-    "jmeno": "Alex Labbe",
-    "serie": "Panini - Donruss",
-    "cislo": 101,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 5,
-    "jmeno": "Aric Almirola",
-    "serie": "Donruss - Race Kings",
-    "cislo": 22,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 6,
-    "jmeno": "Aric Almirola",
-    "serie": "Donruss - Retro",
-    "cislo": 126,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 7,
-    "jmeno": "Austin Cindric",
-    "serie": "Panini - Elite Series",
-    "cislo": "E16",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 8,
-    "jmeno": "Austin Dillon",
-    "serie": "Donruss - Under Lights",
-    "cislo": "UL13",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 9,
-    "jmeno": "Bill Elliott",
-    "serie": "Panini - Donruss",
-    "cislo": 50,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 10,
-    "jmeno": "Brad Keselowski",
-    "serie": "Donruss - Retro",
-    "cislo": 150,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 11,
-    "jmeno": "Brad Keselowski",
-    "serie": "Panini - Metal Masters",
-    "cislo": "MM10",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 12,
-    "jmeno": "Brett Moffitt",
-    "serie": "Panini - Donruss",
-    "cislo": 85,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 13,
-    "jmeno": "Brittney Zamora",
-    "serie": "Donruss - Race Kings",
-    "cislo": 25,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 14,
-    "jmeno": "Bubba Wallace",
-    "serie": "Panini - Donruss",
-    "cislo": 60,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 15,
-    "jmeno": "Chase Briscoe",
-    "serie": "Panini - Donruss",
-    "cislo": 42,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 16,
-    "jmeno": "Chase Elliott",
-    "serie": "Donruss - Race Kings",
-    "cislo": 9,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 17,
-    "jmeno": "Chase Elliott",
-    "serie": "Donruss - Under Lights",
-    "cislo": "UL6",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 18,
-    "jmeno": "Chase Elliott",
-    "serie": "Panini - Donruss",
-    "cislo": 120,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 19,
-    "jmeno": "Chase Elliott",
-    "serie": "Panini - Optic Retro",
-    "cislo": 69,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 20,
-    "jmeno": "Chris Buescher",
-    "serie": "Panini - Donruss",
-    "cislo": 61,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 21,
-    "jmeno": "Christopher Bell ",
-    "serie": "Panini - Donruss",
-    "cislo": 48,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 22,
-    "jmeno": "Clint Bowyer",
-    "serie": "Panini - Donruss",
-    "cislo": 87,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 23,
-    "jmeno": "Cole Custer",
-    "serie": "Donruss - Retro",
-    "cislo": 149,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 24,
-    "jmeno": "Corey Lajoie",
-    "serie": "Panini - Select ",
-    "cislo": 118,
-    "limitace": "125/125",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 25,
-    "jmeno": "Dale Earnhadt Jr",
-    "serie": "Panini - Donruss",
-    "cislo": 26,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 26,
-    "jmeno": "Dalle Jarrett",
-    "serie": "Donruss - Retro",
-    "cislo": 197,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 27,
-    "jmeno": "Daniel Hemric",
-    "serie": "Donruss - Retro",
-    "cislo": 162,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 28,
-    "jmeno": "Daniel Hemric",
-    "serie": "Panini - Donruss",
-    "cislo": 77,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 29,
-    "jmeno": "Daniel Suarez",
-    "serie": "Donruss - Under Lights",
-    "cislo": "UL17",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 30,
-    "jmeno": "Darrell Waltrip",
-    "serie": "Panini - Donruss",
-    "cislo": 99,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 31,
-    "jmeno": "Denny Hamlin",
-    "serie": "Panini - Donruss",
-    "cislo": 47,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 32,
-    "jmeno": "Denny Hamlin",
-    "serie": "Panini - Donruss",
-    "cislo": 124,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 33,
-    "jmeno": "Grant Enfinger",
-    "serie": "Donruss - Retro",
-    "cislo": 191,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 34,
-    "jmeno": "Greg Biffle",
-    "serie": "Donruss - Retro",
-    "cislo": 188,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 35,
-    "jmeno": "Greg Biffle",
-    "serie": "Panini - Select",
-    "cislo": 8,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 36,
-    "jmeno": "Harrison Burton ",
-    "serie": "Donruss - Retro",
-    "cislo": 153,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 37,
-    "jmeno": "Jack Wood",
-    "serie": "Panini - Rated Rookie",
-    "cislo": 31,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 38,
-    "jmeno": "Jake Garcia",
-    "serie": "Panini - Select",
-    "cislo": 193,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 39,
-    "jmeno": "Jeb Burton",
-    "serie": "Donruss - Retro",
-    "cislo": 200,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 40,
-    "jmeno": "Jeff Burton",
-    "serie": "Panini - Select",
-    "cislo": "S-JBT",
-    "limitace": "",
-    "podpis": "Ano",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 41,
-    "jmeno": "Jeff Gordon",
-    "serie": "Panini - Donruss",
-    "cislo": 28,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 42,
-    "jmeno": "Jeff Gordon",
-    "serie": "Panini - Power Squad",
-    "cislo": "PS3",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 43,
-    "jmeno": "Jesse Iwuji",
-    "serie": "Panini- Optic Rookie",
-    "cislo": 13,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 44,
-    "jmeno": "Jimmie Johnson",
-    "serie": "Donruss - Race Kings",
-    "cislo": 48,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 45,
-    "jmeno": "Jimmie Johnson",
-    "serie": "Panini - Donruss",
-    "cislo": 34,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 46,
-    "jmeno": "Joey Logano ",
-    "serie": "Donruss - Race Kings",
-    "cislo": 22,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 47,
-    "jmeno": "John Hunter Nemechek",
-    "serie": "Panini - Donruss",
-    "cislo": 86,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 48,
-    "jmeno": "Josh Berry",
-    "serie": "Panini - Select",
-    "cislo": 66,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 49,
-    "jmeno": "Justin Haley",
-    "serie": "Panini - Donruss",
-    "cislo": 62,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 50,
-    "jmeno": "Kasey Kahne",
-    "serie": "Panini - Donruss",
-    "cislo": 98,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 51,
-    "jmeno": "Kevin Harvick",
-    "serie": "Donruss - Race Kings",
-    "cislo": 4,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 52,
-    "jmeno": "Kevin Harvick",
-    "serie": "Donruss - Retro",
-    "cislo": 142,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 53,
-    "jmeno": "Kevin Harvick",
-    "serie": "Panini - Donruss",
-    "cislo": 116,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 54,
-    "jmeno": "Kevin Harvick",
-    "serie": "Panini - Unleashed",
-    "cislo": "U9",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 55,
-    "jmeno": "Kyle Busch",
-    "serie": "Panini - Donruss",
-    "cislo": 55,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 56,
-    "jmeno": "Kyle Busch",
-    "serie": "Panini- Race Kings",
-    "cislo": 18,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 57,
-    "jmeno": "Kyle Larson",
-    "serie": "Donruss - Retro",
-    "cislo": 129,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 58,
-    "jmeno": "Kyle Weatherman",
-    "serie": "Donruss - Retro",
-    "cislo": 192,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 59,
-    "jmeno": "Landon Cassill",
-    "serie": "Panini - Donruss",
-    "cislo": 79,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 60,
-    "jmeno": "Martin Truex Jr.",
-    "serie": "Donruss - Retro",
-    "cislo": 143,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 61,
-    "jmeno": "Matt DiBenedetto",
-    "serie": "Donruss - Retro",
-    "cislo": 169,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 62,
-    "jmeno": "Mike Harmon",
-    "serie": "Donruss - Retro",
-    "cislo": 181,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 63,
-    "jmeno": "Mike Harmon",
-    "serie": "Donruss - Retro",
-    "cislo": 181,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 64,
-    "jmeno": "Richard Petty",
-    "serie": "Donruss - Retro",
-    "cislo": 159,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 65,
-    "jmeno": "Richard Petty",
-    "serie": "Panini- Race Kings",
-    "cislo": 43,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 66,
-    "jmeno": "Ricky Stenhouse Jr",
-    "serie": "Panini - Donruss",
-    "cislo": 67,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 67,
-    "jmeno": "Riely Herbst",
-    "serie": "Donruss - Retro",
-    "cislo": 163,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 68,
-    "jmeno": "Ryan Blaney",
-    "serie": "Donruss - Race Kings",
-    "cislo": 12,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 69,
-    "jmeno": "Ryan Blaney",
-    "serie": "Donruss - Retro",
-    "cislo": 133,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 70,
-    "jmeno": "Ryan Blaney",
-    "serie": "Panini - Donruss",
-    "cislo": 49,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 71,
-    "jmeno": "Ryan Blaney",
-    "serie": "Panini - Optic Retro",
-    "cislo": 72,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 72,
-    "jmeno": "Ryan Newman",
-    "serie": "Donruss - Retro",
-    "cislo": 182,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 73,
-    "jmeno": "Sam Mayer",
-    "serie": "Panini - Donruss",
-    "cislo": 76,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 74,
-    "jmeno": "Takuma Koga",
-    "serie": "Panini - Rated Rookie",
-    "cislo": 40,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 75,
-    "jmeno": "Tanner Gray",
-    "serie": "Panini - Donruss",
-    "cislo": 103,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 76,
-    "jmeno": "Toni Breidinger",
-    "serie": "Donruss - Retro",
-    "cislo": 178,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 77,
-    "jmeno": "Toni Breidinger",
-    "serie": "Panini - Donruss",
-    "cislo": 93,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 78,
-    "jmeno": "Tony Stewart",
-    "serie": "Panini - Donruss",
-    "cislo": 94,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 79,
-    "jmeno": "Ty Dillon",
-    "serie": "Panini- Optic Donruss",
-    "cislo": 57,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 80,
-    "jmeno": "Ty Gibbs",
-    "serie": "Panini - Donruss",
-    "cislo": 71,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 81,
-    "jmeno": "Tyler Reddick",
-    "serie": "Donruss - Retro",
-    "cislo": 139,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 82,
-    "jmeno": "Tyler Reddick",
-    "serie": "Panini - Donruss",
-    "cislo": 54,
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
-  },
-  {
-    "id": 83,
-    "jmeno": "William Byron",
-    "serie": "Panini - Unleashed",
-    "cislo": "U5",
-    "limitace": "",
-    "podpis": "",
-    "memorabilia": "",
-    "rookie": ""
+    "id":1.0,
+    "jmeno":"Alex Bowman",
+    "serie":"Donruss - Race Kings",
+    "cislo":"48",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":2.0,
+    "jmeno":"Alex Bowman",
+    "serie":"Donruss - Under Lights",
+    "cislo":"UL3",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":3.0,
+    "jmeno":"Alex Bowman",
+    "serie":"Panini - Elite Series",
+    "cislo":"E12",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":4.0,
+    "jmeno":"Alex Labbe",
+    "serie":"Panini - Donruss",
+    "cislo":"101",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":5.0,
+    "jmeno":"Aric Almirola",
+    "serie":"Donruss - Race Kings",
+    "cislo":"22",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":6.0,
+    "jmeno":"Aric Almirola",
+    "serie":"Donruss - Retro",
+    "cislo":"126",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":7.0,
+    "jmeno":"Austin Cindric",
+    "serie":"Panini - Elite Series",
+    "cislo":"E16",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":8.0,
+    "jmeno":"Austin Dillon",
+    "serie":"Donruss - Under Lights",
+    "cislo":"UL13",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":9.0,
+    "jmeno":"Bill Elliott",
+    "serie":"Panini - Donruss",
+    "cislo":"50",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":10.0,
+    "jmeno":"Brad Keselowski",
+    "serie":"Donruss - Retro",
+    "cislo":"150",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":11.0,
+    "jmeno":"Brad Keselowski",
+    "serie":"Panini - Metal Masters",
+    "cislo":"MM10",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":12.0,
+    "jmeno":"Brett Moffitt",
+    "serie":"Panini - Donruss",
+    "cislo":"85",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":13.0,
+    "jmeno":"Brittney Zamora",
+    "serie":"Donruss - Race Kings",
+    "cislo":"25",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":14.0,
+    "jmeno":"Bubba Wallace",
+    "serie":"Panini - Donruss",
+    "cislo":"60",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":15.0,
+    "jmeno":"Chase Briscoe",
+    "serie":"Panini - Donruss",
+    "cislo":"42",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":16.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Donruss - Race Kings",
+    "cislo":"9",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":17.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Donruss - Under Lights",
+    "cislo":"UL6",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":18.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Panini - Donruss",
+    "cislo":"120",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":19.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Panini - Optic Retro",
+    "cislo":"69",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":20.0,
+    "jmeno":"Chris Buescher",
+    "serie":"Panini - Donruss",
+    "cislo":"61",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":21.0,
+    "jmeno":"Christopher Bell ",
+    "serie":"Panini - Donruss",
+    "cislo":"48",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":22.0,
+    "jmeno":"Clint Bowyer",
+    "serie":"Panini - Donruss",
+    "cislo":"87",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":23.0,
+    "jmeno":"Cole Custer",
+    "serie":"Donruss - Retro",
+    "cislo":"149",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":24.0,
+    "jmeno":"Corey Lajoie",
+    "serie":"Panini - Select ",
+    "cislo":"118",
+    "limitace":"125\/125",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":25.0,
+    "jmeno":"Dale Earnhardt Jr.",
+    "serie":"Panini - Donruss",
+    "cislo":"26",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":26.0,
+    "jmeno":"Dale Jarrett",
+    "serie":"Donruss - Retro",
+    "cislo":"197",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":27.0,
+    "jmeno":"Daniel Hemric",
+    "serie":"Donruss - Retro",
+    "cislo":"162",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":28.0,
+    "jmeno":"Daniel Hemric",
+    "serie":"Panini - Donruss",
+    "cislo":"77",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":29.0,
+    "jmeno":"Daniel Suarez",
+    "serie":"Donruss - Under Lights",
+    "cislo":"UL17",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":30.0,
+    "jmeno":"Darrell Waltrip",
+    "serie":"Panini - Donruss",
+    "cislo":"99",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":31.0,
+    "jmeno":"Denny Hamlin",
+    "serie":"Panini - Donruss",
+    "cislo":"47",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":32.0,
+    "jmeno":"Denny Hamlin",
+    "serie":"Panini - Donruss",
+    "cislo":"124",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":33.0,
+    "jmeno":"Grant Enfinger",
+    "serie":"Donruss - Retro",
+    "cislo":"191",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":34.0,
+    "jmeno":"Greg Biffle",
+    "serie":"Donruss - Retro",
+    "cislo":"188",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":35.0,
+    "jmeno":"Greg Biffle",
+    "serie":"Panini - Select",
+    "cislo":"8",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":36.0,
+    "jmeno":"Harrison Burton ",
+    "serie":"Donruss - Retro",
+    "cislo":"153",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":37.0,
+    "jmeno":"Jack Wood",
+    "serie":"Panini - Rated Rookie",
+    "cislo":"31",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":38.0,
+    "jmeno":"Jake Garcia",
+    "serie":"Panini - Select",
+    "cislo":"193",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":39.0,
+    "jmeno":"Jeb Burton",
+    "serie":"Donruss - Retro",
+    "cislo":"200",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":40.0,
+    "jmeno":"Jeff Burton",
+    "serie":"Panini - Select",
+    "cislo":"S-JBT",
+    "limitace":"",
+    "podpis":"Ano",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":41.0,
+    "jmeno":"Jeff Gordon",
+    "serie":"Panini - Donruss",
+    "cislo":"28",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":42.0,
+    "jmeno":"Jeff Gordon",
+    "serie":"Panini - Power Squad",
+    "cislo":"PS3",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":43.0,
+    "jmeno":"Jesse Iwuji",
+    "serie":"Panini- Optic Rookie",
+    "cislo":"13",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":44.0,
+    "jmeno":"Jimmie Johnson",
+    "serie":"Donruss - Race Kings",
+    "cislo":"20",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":45.0,
+    "jmeno":"Jimmie Johnson",
+    "serie":"Panini - Donruss",
+    "cislo":"34",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":46.0,
+    "jmeno":"Joey Logano ",
+    "serie":"Donruss - Race Kings",
+    "cislo":"7",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":47.0,
+    "jmeno":"John Hunter Nemechek",
+    "serie":"Panini - Donruss",
+    "cislo":"86",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":48.0,
+    "jmeno":"Josh Berry",
+    "serie":"Panini - Select",
+    "cislo":"66",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":49.0,
+    "jmeno":"Justin Haley",
+    "serie":"Panini - Donruss",
+    "cislo":"62",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":50.0,
+    "jmeno":"Kasey Kahne",
+    "serie":"Panini - Donruss",
+    "cislo":"98",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":51.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Donruss - Race Kings",
+    "cislo":"4",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":52.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Donruss - Retro",
+    "cislo":"142",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":53.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Panini - Donruss",
+    "cislo":"116",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":54.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Panini - Unleashed",
+    "cislo":"U9",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":55.0,
+    "jmeno":"Kyle Busch",
+    "serie":"Panini - Donruss",
+    "cislo":"55",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":56.0,
+    "jmeno":"Kyle Busch",
+    "serie":"Panini- Race Kings",
+    "cislo":"3",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":57.0,
+    "jmeno":"Kyle Larson",
+    "serie":"Donruss - Retro",
+    "cislo":"129",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":58.0,
+    "jmeno":"Kyle Weatherman",
+    "serie":"Donruss - Retro",
+    "cislo":"192",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":59.0,
+    "jmeno":"Landon Cassill",
+    "serie":"Panini - Donruss",
+    "cislo":"79",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":60.0,
+    "jmeno":"Martin Truex Jr.",
+    "serie":"Donruss - Retro",
+    "cislo":"143",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":61.0,
+    "jmeno":"Matt DiBenedetto",
+    "serie":"Donruss - Retro",
+    "cislo":"169",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":62.0,
+    "jmeno":"Mike Harmon",
+    "serie":"Donruss - Retro",
+    "cislo":"181",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":63.0,
+    "jmeno":"Mike Harmon",
+    "serie":"Donruss - Retro",
+    "cislo":"181",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":64.0,
+    "jmeno":"Richard Petty",
+    "serie":"Donruss - Retro",
+    "cislo":"159",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":65.0,
+    "jmeno":"Richard Petty",
+    "serie":"Panini- Race Kings",
+    "cislo":"1",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":66.0,
+    "jmeno":"Ricky Stenhouse Jr.",
+    "serie":"Panini - Donruss",
+    "cislo":"67",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":67.0,
+    "jmeno":"Riely Herbst",
+    "serie":"Donruss - Retro",
+    "cislo":"163",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":68.0,
+    "jmeno":"Ryan Blaney",
+    "serie":"Donruss - Race Kings",
+    "cislo":"17",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":69.0,
+    "jmeno":"Ryan Blaney",
+    "serie":"Donruss - Retro",
+    "cislo":"133",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":70.0,
+    "jmeno":"Ryan Blaney",
+    "serie":"Panini - Donruss",
+    "cislo":"49",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":71.0,
+    "jmeno":"Ryan Blaney",
+    "serie":"Panini - Optic Retro",
+    "cislo":"72",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":72.0,
+    "jmeno":"Ryan Newman",
+    "serie":"Donruss - Retro",
+    "cislo":"182",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":73.0,
+    "jmeno":"Sam Mayer",
+    "serie":"Panini - Donruss",
+    "cislo":"76",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":74.0,
+    "jmeno":"Takuma Koga",
+    "serie":"Panini - Rated Rookie",
+    "cislo":"40",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":75.0,
+    "jmeno":"Tanner Gray",
+    "serie":"Panini - Donruss",
+    "cislo":"103",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":76.0,
+    "jmeno":"Toni Breidinger",
+    "serie":"Donruss - Retro",
+    "cislo":"178",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":77.0,
+    "jmeno":"Toni Breidinger",
+    "serie":"Panini - Donruss",
+    "cislo":"93",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":78.0,
+    "jmeno":"Tony Stewart",
+    "serie":"Panini - Donruss",
+    "cislo":"94",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":79.0,
+    "jmeno":"Ty Dillon",
+    "serie":"Panini- Optic Donruss",
+    "cislo":"57",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":80.0,
+    "jmeno":"Ty Gibbs",
+    "serie":"Panini - Donruss",
+    "cislo":"71",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":81.0,
+    "jmeno":"Tyler Reddick",
+    "serie":"Donruss - Retro",
+    "cislo":"139",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":82.0,
+    "jmeno":"Tyler Reddick",
+    "serie":"Panini - Donruss",
+    "cislo":"54",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":83.0,
+    "jmeno":"William Byron",
+    "serie":"Panini - Unleashed",
+    "cislo":"U5",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":84.0,
+    "jmeno":"Martin Truex Jr.",
+    "serie":"Panini - Donruss",
+    "cislo":"58",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":85.0,
+    "jmeno":"Denny Hamlin",
+    "serie":"Panini - Optic Retro",
+    "cislo":"71",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":86.0,
+    "jmeno":"Joey Gase",
+    "serie":"Donruss - Retro",
+    "cislo":"199",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":87.0,
+    "jmeno":"Martin Truex Jr.",
+    "serie":"Panini - Donruss",
+    "cislo":"122",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":88.0,
+    "jmeno":"Ricky Stenhouse Jr.",
+    "serie":"Donruss - Retro",
+    "cislo":"152",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":89.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Panini - Power Squad",
+    "cislo":"PS5",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":90.0,
+    "jmeno":"Martin Truex Jr.",
+    "serie":"Panini - Metal Masters",
+    "cislo":"MM7",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":91.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Panini - Unleashed",
+    "cislo":"U1",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":92.0,
+    "jmeno":"Joey Logano",
+    "serie":"Panini - Elite series",
+    "cislo":"E2",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":93.0,
+    "jmeno":"Dale Earnhardt Jr.",
+    "serie":"Panini - Royalty",
+    "cislo":"R4",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":94.0,
+    "jmeno":"Kevin Harvick",
+    "serie":"Panini - Optic Retro",
+    "cislo":"64",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":95.0,
+    "jmeno":"Justin Allgaier",
+    "serie":"Panini - Optic ",
+    "cislo":"51",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":96.0,
+    "jmeno":"Daniel Suarez",
+    "serie":"Donruss - Retro",
+    "cislo":"137",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":97.0,
+    "jmeno":"Justin Allgaier",
+    "serie":"Donruss - Retro",
+    "cislo":"157",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":98.0,
+    "jmeno":"Danica Patrick",
+    "serie":"Donruss - Retro",
+    "cislo":"176",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":99.0,
+    "jmeno":"Michael McDowell",
+    "serie":"Donruss - Race Kings",
+    "cislo":"21",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":100.0,
+    "jmeno":"Paul Menard",
+    "serie":"Donruss - Retro",
+    "cislo":"198",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":101.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Donrus - Retro",
+    "cislo":"127",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":102.0,
+    "jmeno":"Tanner Gray ",
+    "serie":"Donruss - Retro",
+    "cislo":"189",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":103.0,
+    "jmeno":"Brett Moffitt",
+    "serie":"Donrus - Retro",
+    "cislo":"170",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":104.0,
+    "jmeno":"Kyle Busch",
+    "serie":"Donruss - Retro",
+    "cislo":"140",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":105.0,
+    "jmeno":"Kyle Busch",
+    "serie":"Panini - Donruss",
+    "cislo":"121",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":106.0,
+    "jmeno":"Dale Jarrett",
+    "serie":"Panini - Donruss",
+    "cislo":"111",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":107.0,
+    "jmeno":"Justin Allgaier",
+    "serie":"Panini - Donruss",
+    "cislo":"72",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":108.0,
+    "jmeno":"Chase Elliott",
+    "serie":"Panini - Donruss",
+    "cislo":"43",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":109.0,
+    "jmeno":"Myatt Snider",
+    "serie":"Panini - Donruss",
+    "cislo":"80",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":110.0,
+    "jmeno":"Jesse Iwuji",
+    "serie":"Panini - Rated Rookie",
+    "cislo":"27",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":111.0,
+    "jmeno":"Jimmie Johnson",
+    "serie":"Panini - Donruss",
+    "cislo":"89",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":112.0,
+    "jmeno":"Bubba Wallace",
+    "serie":"Donruss - Race Kings",
+    "cislo":"18",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
+  },
+  {
+    "id":"",
+    "jmeno":"",
+    "serie":"",
+    "cislo":"",
+    "limitace":"",
+    "podpis":"",
+    "memorabilia":"",
+    "rookie":""
   }
 ]
